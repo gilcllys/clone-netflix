@@ -1,2 +1,2 @@
 # clone-netflix
-site clone do modelo de design do site da netlfix
+site clone do modelo de design  da netlfix 
